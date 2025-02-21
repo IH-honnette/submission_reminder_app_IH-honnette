@@ -7,9 +7,9 @@ The **Assignment Submission Reminder System** is a Bash-based script that helps 
 ## 🔧 Features  
 
 - ✅ Generates a structured directory for tracking submissions  
-- ✅ Stores student submissions in a CSV file (`submissions.txt`)  
+- ✅ Stores student submissions in a text file (`submissions.txt`)  
 - ✅ Allows manual or random addition of students  
-- ✅ Checks for pending submissions and prints reminders  
+- ✅ Checks for pending submissions and print reminders  
 - ✅ Ensures input validation for student names and statuses  
 - ✅ Easy to run with a single command  
 
