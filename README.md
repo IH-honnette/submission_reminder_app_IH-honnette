@@ -45,7 +45,7 @@ submission_reminder_<name>/
     ```
 4. Follow the on-screen instructions to add students and check pending submissions.
 
-## ⚙️ Customization ⚙️
+## ⚙️ Customization 
 
 1. To modify the assignment name or days remaining, edit the config/config.env file.
 
